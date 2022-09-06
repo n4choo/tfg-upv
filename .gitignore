@@ -1,0 +1,9 @@
+config.py
+nacho/config.py
+nacho/try-ny.csv
+data
+__pycache__
+.ipynb_checkpoints
+.venv
+.mypy_cache
+.DS_store
